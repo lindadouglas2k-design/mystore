@@ -91,7 +91,7 @@ function App() {
       <section className="pt-24 pb-20 px-4 bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800">
         <div className="max-w-7xl mx-auto text-center">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6">
-            Premium Educational Bundle
+            Digital Edu Store
           </h1>
           <p className="text-xl sm:text-2xl text-blue-100 mb-4">
             Unlimited learning from world's top universities.
