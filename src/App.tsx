@@ -261,8 +261,8 @@ function App() {
 
               {/* Gift 3 */}
               <div className="text-center">
-                <div className="bg-gradient-to-br from-blue-500 to-blue-700 w-20 h-20 rounded-full mx-auto mb-4 flex items-center justify-center text-4xl shadow-lg">
-                  💼
+                <div className="w-20 h-20 rounded-full mx-auto mb-4 flex items-center justify-center shadow-lg overflow-hidden bg-white">
+                  <img src="/images copy.jpg" alt="LinkedIn" className="w-16 h-16 object-contain" />
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">LinkedIn Career Premium</h3>
                 <p className="text-gray-600 mb-2">3 Months Access</p>
