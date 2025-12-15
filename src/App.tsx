@@ -246,13 +246,13 @@ function App() {
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">ChatGPT Plus</h3>
                 <p className="text-gray-600 mb-2">1 Month Access</p>
-                <p className="text-lg font-semibold text-green-600">Value: LKR 6,000</p>
+                <p className="text-lg font-semibold text-blue-600">Value: LKR 6,000</p>
               </div>
 
               {/* Gift 2 */}
               <div className="text-center">
-                <div className="bg-gradient-to-br from-blue-400 to-cyan-600 w-20 h-20 rounded-full mx-auto mb-4 flex items-center justify-center text-4xl shadow-lg">
-                  🎨
+                <div className="w-20 h-20 rounded-full mx-auto mb-4 flex items-center justify-center shadow-lg overflow-hidden bg-white">
+                  <img src="/canva-logo.png" alt="Canva" className="w-16 h-16 object-contain" />
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Canva Edu Pro</h3>
                 <p className="text-gray-600 mb-2">1 Year Access</p>
@@ -282,7 +282,7 @@ function App() {
                 </div>
                 <div className="bg-red-500 text-white px-6 py-3 rounded-lg">
                   <p className="text-sm">You Save:</p>
-                  <p className="text-2xl font-bold">91% OFF</p>
+                  <p className="text-2xl font-bold">90% OFF</p>
                 </div>
               </div>
             </div>
