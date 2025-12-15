@@ -194,28 +194,28 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {/* Category 1 */}
             <div className="bg-gradient-to-br from-blue-500 to-blue-700 p-8 rounded-xl text-white hover:scale-105 transition-transform cursor-pointer shadow-lg">
-              <div className="text-3xl mb-4">💡</div>
+              <div className="text-3xl mb-4">🕵️</div>
               <h3 className="text-2xl font-bold mb-2">Data Science</h3>
               <p className="text-blue-100">Machine Learning, AI, Analytics</p>
             </div>
 
             {/* Category 2 */}
             <div className="bg-gradient-to-br from-blue-500 to-blue-700 p-8 rounded-xl text-white hover:scale-105 transition-transform cursor-pointer shadow-lg">
-              <div className="text-3xl mb-4">⚡</div>
+              <div className="text-3xl mb-4">🧑‍💻</div>
               <h3 className="text-2xl font-bold mb-2">Technology</h3>
               <p className="text-blue-100">Web Dev, Mobile Apps, Cloud</p>
             </div>
 
             {/* Category 3 */}
             <div className="bg-gradient-to-br from-blue-500 to-blue-700 p-8 rounded-xl text-white hover:scale-105 transition-transform cursor-pointer shadow-lg">
-              <div className="text-3xl mb-4">🏆</div>
+              <div className="text-3xl mb-4">💰</div>
               <h3 className="text-2xl font-bold mb-2">Business</h3>
               <p className="text-blue-100">Marketing, Finance, Management</p>
             </div>
 
             {/* Category 4 */}
             <div className="bg-gradient-to-br from-blue-500 to-blue-700 p-8 rounded-xl text-white hover:scale-105 transition-transform cursor-pointer shadow-lg">
-              <div className="text-3xl mb-4">⭐</div>
+              <div className="text-3xl mb-4">🌟</div>
               <h3 className="text-2xl font-bold mb-2">Personal Development</h3>
               <p className="text-blue-100">Leadership, Productivity, Skills</p>
             </div>
