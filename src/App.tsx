@@ -97,9 +97,7 @@ function App() {
             Unlimited learning from world's top universities.
           </p>
           <p className="text-lg text-blue-200 mb-10 max-w-3xl mx-auto">
-            Transform your career with access to thousands of courses, professional certificates,
-            and exclusive resources. Get everything you need to succeed in today's competitive
-            job market at an unbeatable price.
+            Ready to transform your career? With Coursera Plus, you get unlimited access to thousands of courses, professional certificates, and exclusive resources. Everything you need to succeed is now available in one powerful, cost-effective plan.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button
